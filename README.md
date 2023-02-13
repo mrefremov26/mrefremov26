@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-### :man_technologist: &nbsp;About Me :
+:man_technologist: &nbsp;About Me :
 
 - 🌱 I’m full stack developer
 - ⚡ In my free time I read tech articles.
