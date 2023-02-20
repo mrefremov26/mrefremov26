@@ -1,5 +1,5 @@
 <header>
-    <h2>Hello there! I'm Pavel Efremov, Full Stack Developer</h2>
+    <h2>Hello there! I'm Pavel Efremov, Frontend Developer</h2>
 </header>
 
 <div id="socials" align="center">
@@ -12,7 +12,7 @@
 </div>
 :man_technologist: &nbsp;About Me :
 
-- 🌱 I’m full stack developer
+- 🌱 I’m frontend developer
 - ⚡ In my free time I read tech articles.
 - 🌍 I speak English, Russian and Udmurt.
 ---
