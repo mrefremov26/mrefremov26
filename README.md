@@ -1,5 +1,5 @@
 <header>
-    <h2>Hello there! I'm Pavel Efremov, Frontend Developer</h2>
+    <h2>Hello there! I'm Pavel Efremov, Fullstack Developer</h2>
 </header>
 
 <div id="socials" align="center">
