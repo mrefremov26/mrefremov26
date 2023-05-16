@@ -12,7 +12,7 @@
 </div>
 :man_technologist: &nbsp;About Me :
 
-- 🌱 I’m frontend developer
+- 🌱 I’m fullstack developer
 - ⚡ In my free time I read tech articles.
 - 🌍 I speak English, Russian and Udmurt.
 ---
