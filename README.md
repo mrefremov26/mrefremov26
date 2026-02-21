@@ -1,5 +1,5 @@
 <header>
-    <h2>Hello there! I'm Pavel Efremov, Fullstack Developer</h2>
+    <h2>Hello there! I'm Pavel Efremov, Golang Developer</h2>
 </header>
 
 <div id="socials" align="center">
@@ -12,7 +12,7 @@
 </div>
 &nbsp;About Me :
 
-- 🌱 I’m fullstack developer
+- 🌱 I’m golang developer
 - ⚡ In my free time I read tech articles.
 - 🌍 I speak English, Russian and Udmurt.
 ---
